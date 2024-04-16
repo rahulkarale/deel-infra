@@ -12,7 +12,7 @@
 1. Clone the repo to a local directory.
 
 ```
-git clone https://github.com/rahulkarale/devops-assessment-terraform.git
+git clone https://github.com/rahulkarale/deel-infra.git
 ```
 
 2. Set AWS Providers
